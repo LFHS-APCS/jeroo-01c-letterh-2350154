@@ -4,6 +4,52 @@
  */
 public class Jeroo extends JerooBase {
     // Put any methods here
+    public void testLetterH() {
+      hop();
+      turn(LEFT);
+      turn(LEFT);
+      turn(LEFT);
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+      plant();
+      turn(LEFT);
+      hop();
+      turn(LEFT);
+      hop();
+      hop();
+      plant();
+      turn(LEFT);
+      turn(LEFT);
+      turn(LEFT);
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+      turn(LEFT);
+      hop();
+      hop();
+      plant();
+      turn(LEFT);
+      turn(LEFT);
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+      plant();
+      hop();
+
+    }
 
     
     // Do NOT touch the code below here
